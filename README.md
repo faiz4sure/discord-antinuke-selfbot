@@ -172,7 +172,7 @@ For help with setup, hosting, or issues:
 - Read the documentation thoroughly before asking questions
 
 ## 🎁 Contribute
-.
+
 - If you love the project, you can simply contribute in it by leaving a star.
 - You can also work with us in this project at support server.
 
