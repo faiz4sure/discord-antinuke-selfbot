@@ -172,6 +172,10 @@ For instructions on setting up on Android using Termux, see [Android.md](Android
 - **Memory Issues**: Ensure your hosting has at least 512MB RAM
 - **Startup Errors**: Check logs/errors.txt for detailed error information
 
+## 🤡 Skidder Alert
+
+If you find a repo that looks exactly like this one but with a broken setup and wrong instructions — congrats, you’ve found a **skidder** in the wild. Only trust the original. Stay safe, and don’t get scammed by script kiddies.
+
 ## 🤝 Support
 
 For help with setup, hosting, or issues:
