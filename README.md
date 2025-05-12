@@ -6,6 +6,7 @@ A sophisticated Discord anti-abuse selfbot engineered to provide comprehensive s
 
 ## 👮 Officials
 Below are the officials of this repository who actually build it and will also provide support upon it.
+On github you can also find repository skidders, who dont even know how to code. So make sure you always use official repository provided by these Officials.
 
 - [faiz4sure](https://github.com/faiz4sure) (Currently)
 
@@ -14,6 +15,7 @@ Below are the officials of this repository who actually build it and will also p
 **Using selfbots is against Discord's Terms of Service.**
 This code is provided for educational purposes only.
 Use at your own risk. The developer does not take responsibility for any consequences.
+This repository is officially owned by [faiz4sure](https://github.com/faiz4sure) and any kind of user data is not being collected by developers through this. We dont take responsiblity if you use repository of any **Unofficial skidder**.
 
 ## 🛡️ Features
 

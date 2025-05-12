@@ -3,7 +3,7 @@
  * Using discord.js-selfbot-v13
  * 
  * DISCLAIMER: Using selfbots is against Discord's Terms of Service.
- * This code is provided for educational purposes only.
+ * This code is provided for educational purposes only by faiz4sure.
  * Use at your own risk. I do not take responsibility for any consequences.
  */
 
@@ -1182,3 +1182,12 @@ process.on('unhandledRejection', (reason, promise) => {
     console.error(chalk.redBright('Promise:'), promise);
     handleGracefulShutdown('unhandledRejection');
 });
+
+/* ==================== OFFICIALS ====================
+
+Support server: https://discord.gg/heer
+GitHub: https://github.com/faiz4sure/discord-antinuke-selfbot
+Officially Owned by: faiz4sure
+
+========================================================
+*/
