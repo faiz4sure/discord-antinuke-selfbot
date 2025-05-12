@@ -4,6 +4,11 @@ A sophisticated Discord anti-abuse selfbot engineered to provide comprehensive s
 
 ![Discord Antinuke Selfbot](./self.png)
 
+## 👮 Officials
+Below are the officials of this repository who actually build it and will also provide support upon it.
+
+- [faiz4sure](https://github.com/faiz4sure) (Currently)
+
 ## ⚠️ DISCLAIMER
 
 **Using selfbots is against Discord's Terms of Service.**
