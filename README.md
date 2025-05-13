@@ -191,3 +191,4 @@ For help with setup, hosting, or issues:
 
 - Made with ❤️ by [faiz4sure](https://github.com/faiz4sure)
 - Support server: [https://discord.gg/heer](https://discord.gg/heer)
+- Website: https://faiz4sure-antinuke.netlify.app
