@@ -158,7 +158,7 @@ While you can run this on your own device, we strongly recommend using a dedicat
 - NodeJS hosting services
 - Replit (with hacks to prevent sleep)
 
-Join our [support server](https://discord.gg/WkZerNM5ew) for hosting recommendations and setup help.
+Join our [support server](https://discord.gg/PEphKsNpe8) for hosting recommendations and setup help.
 
 ## 📱 Mobile Setup
 
@@ -179,7 +179,7 @@ If you find a repo that looks exactly like this one but with a broken setup and 
 ## 🤝 Support
 
 For help with setup, hosting, or issues:
-- Join our support server: [https://discord.gg/WkZerNM5ew](https://discord.gg/WkZerNM5ew)
+- Join our support server: [https://discord.gg/PEphKsNpe8](https://discord.gg/PEphKsNpe8)
 - Read the documentation thoroughly before asking questions
 
 ## 🎁 Contribute
@@ -190,5 +190,5 @@ For help with setup, hosting, or issues:
 ## 👨‍💻 Credits
 
 - Made with ❤️ by [faiz4sure](https://github.com/faiz4sure)
-- Support server: [https://discord.gg/WkZerNM5ew](https://discord.gg/WkZerNM5ew)
+- Support server: [https://discord.gg/PEphKsNpe8](https://discord.gg/PEphKsNpe8)
 - Website: https://faiz4sure-antinuke.netlify.app

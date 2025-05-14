@@ -12,7 +12,7 @@ This guide will help you set up and run the Discord Antinuke Selfbot on your And
 
 2. **Recommended Alternative**: Consider using a proper VPS or hosting service instead of your phone.
 
-3. **Support**: For hosting recommendations and help, join our [support server](https://discord.gg/WkZerNM5ew).
+3. **Support**: For hosting recommendations and help, join our [support server](https://discord.gg/PEphKsNpe8).
 
 ## 📱 Termux Setup Guide
 
@@ -163,6 +163,6 @@ For the best experience, we strongly recommend moving to a proper hosting servic
 
 2. **Affordable Hosting**:
    - Hostinger
-   - For free one's, discuss at [support server](https://discord.gg/WkZerNM5ew)
+   - For free one's, discuss at [support server](https://discord.gg/PEphKsNpe8)
 
-For help with selecting and setting up hosting, please join our [support server](https://discord.gg/WkZerNM5ew).
+For help with selecting and setting up hosting, please join our [support server](https://discord.gg/PEphKsNpe8).

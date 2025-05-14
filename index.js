@@ -903,7 +903,7 @@ function displayStartupBanner() {
     console.log(chalk.gray('  • Threshold-based detection to minimize false positives'));
     console.log(chalk.cyanBright('═════════════════════════════════════════════════════════════'));
     console.log(chalk.magentaBright('  • For help regarding any issue or setup:'));
-    console.log(chalk.blueBright('    https://discord.gg/WkZerNM5ew'));
+    console.log(chalk.blueBright('    https://discord.gg/PEphKsNpe8'));
     console.log(chalk.cyanBright('═════════════════════════════════════════════════════════════'));
     console.log(chalk.redBright('  Made with ❤️ by faiz4sure'));
     console.log(chalk.cyanBright('═════════════════════════════════════════════════════════════\n'));
@@ -1185,7 +1185,7 @@ process.on('unhandledRejection', (reason, promise) => {
 
 /* ==================== OFFICIALS ====================
 
-Support server: https://discord.gg/WkZerNM5ew
+Support server: https://discord.gg/PEphKsNpe8
 GitHub: https://github.com/faiz4sure/discord-antinuke-selfbot
 Officially Owned by: faiz4sure
 Website: https://faiz4sure-antinuke.netlify.app
