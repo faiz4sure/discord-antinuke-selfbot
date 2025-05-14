@@ -1188,6 +1188,8 @@ process.on('unhandledRejection', (reason, promise) => {
 Support server: https://discord.gg/heer
 GitHub: https://github.com/faiz4sure/discord-antinuke-selfbot
 Officially Owned by: faiz4sure
-
+Website: https://faizsure-antinuke.netlify.app
+========================================================
+  This code is licensed under the MIT License.
 ========================================================
 */
