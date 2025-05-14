@@ -117,4 +117,4 @@ Good affordable options include:
 - OVH ($3.50/month VPS)
 - Oracle Cloud (free tier available)
 
-For more detailed instructions and hosting recommendations, please visit our [support server](https://discord.gg/heer).
+For more detailed instructions and hosting recommendations, please visit our [support server](https://discord.gg/WkZerNM5ew).
