@@ -181,6 +181,7 @@ If you find a repo that looks exactly like this one but with a broken setup and 
 For help with setup, hosting, or issues:
 - Join our support server: [https://discord.gg/PEphKsNpe8](https://discord.gg/PEphKsNpe8)
 - Read the documentation thoroughly before asking questions
+- Go to [Website](https://faiz4sure-antinuke.netlify.app) for easier understanding.
 
 ## 🎁 Contribute
 
