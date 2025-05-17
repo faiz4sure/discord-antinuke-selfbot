@@ -163,6 +163,7 @@ For the best experience, we strongly recommend moving to a proper hosting servic
 
 2. **Affordable Hosting**:
    - Hostinger
+   - Panel based hostings
    - For free one's, discuss at [support server](https://discord.gg/PEphKsNpe8)
 
 For help with selecting and setting up hosting, please join our [support server](https://discord.gg/PEphKsNpe8).
