@@ -19,7 +19,7 @@ This guide will help you set up and run the Discord Antinuke Selfbot on your And
 ### 1. Install Termux
 
 1. Download Termux from [F-Droid](https://f-droid.org/en/packages/com.termux/) (recommended)
-   - Note: The Google Play version is outdated and may not work properly
+   - Note: The Google Play version is outdated and may not work properly.
 
 2. Open Termux and update its packages:
    ```bash
