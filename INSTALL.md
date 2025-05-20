@@ -96,7 +96,7 @@ pause
 
 ### On Linux/macOS
 
-Create a shell script (start.sh) with:
+Create a shell script (bash.sh or start.sh) with:
 ```bash
 #!/bin/bash
 node index.js
