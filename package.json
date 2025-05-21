@@ -1,11 +1,12 @@
 {
-  "name": "antinuke-selfbot",
+  "name": "discord-antinuke-selfbot",
   "version": "1.0.0",
   "description": "Discord Antinuke Selfbot for server protection",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node index.js"
   },
   "keywords": [
     "discord",
@@ -14,8 +15,8 @@
     "selfbot",
     "security"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "github.com/faiz4sure",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
     "clear": "^0.1.0",
