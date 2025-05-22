@@ -16,7 +16,7 @@
     "security"
   ],
   "author": "github.com/faiz4sure",
-  "license": "MIT",
+  "license": "GPL",
   "dependencies": {
     "chalk": "^4.1.2",
     "clear": "^0.1.0",
