@@ -43,7 +43,7 @@ This repository is officially owned by [faiz4sure](https://github.com/faiz4sure)
 - **Memory**: Minimum 512MB RAM
 - **CPU**: 1 vCPU or better
 - **Storage**: At least 100MB of free space
-- **Node.js**: v16 or higher
+- **Node.js**: v20 or higher
 - **Connection**: Stable internet connection
 - **Hosting**: 24/7 uptime recommended for continuous protection
 
