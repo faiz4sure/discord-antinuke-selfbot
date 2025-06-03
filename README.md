@@ -168,7 +168,7 @@ For instructions on setting up on Android using Termux, see [Android.md](Android
 
 - **Token Invalid**: Double-check your Discord token is correct and not expired.
 - **Permission Issues**: Ensure the bot has Administrator permission in protected servers.
-- **Role Hierarchy**: The bot's role needs to be high enough to take action 
+- **Role Hierarchy**: The bot's role needs to be high enough to take action. 
 - **Memory Issues**: Ensure your hosting has at least 512MB RAM.
 - **Startup Errors**: Check logs/errors.txt for detailed error information.
 - **Other Errors**: For other errors, feel free to open up an issue from the [Issues](https://github.com/faiz4sure/discord-antinuke-selfbot/issues) tab.
